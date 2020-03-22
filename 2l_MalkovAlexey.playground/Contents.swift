@@ -51,3 +51,4 @@ func primeNumbers(arrayPassed: [Int]) -> [Int] {
     return primes
 }
 print(primeNumbers(arrayPassed: Array(2...100)))
+//на проверку
